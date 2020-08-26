@@ -1,4 +1,5 @@
-Project from the Java course from Hyperskill.org
+Project from the Java course from Hyperskill.org.
+
 This is a simple banking system with database.
 
 This is my first project that implements databases, so it may be a little rough around the edges.
